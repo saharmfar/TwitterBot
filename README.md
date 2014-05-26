@@ -24,7 +24,7 @@ The language that was used to interface with Twitter API is Python. Python is an
 <li>Google News</li>
 </ul>
 <p>Figure 1, below, shows the workflows for our bot’s processes, including “friend management”, “tweet processing”, and “outbound queue processing”.</p>
-<img src="bot.png">
+<img src="workflow.png">
 <h2>Results</h2>
 <p>We deployed our bot at 8:30am. The half-hour delay was spent on communicating among all group members to make sure everyone in our team was ready and all the modifications were recorded properly. We categorized our results based on quantitative and qualitative data which is described below in detail:</p>
 <ul>
