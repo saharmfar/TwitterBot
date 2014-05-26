@@ -1,0 +1,206 @@
+(lp0
+S'The Dictator\n'
+p1
+aS'Dark Shadows\n'
+p2
+aS'The Road\n'
+p3
+aS'God Bless America\n'
+p4
+aS'The Best Exotic Marigold Hotel\n'
+p5
+aS'The Avengers\n'
+p6
+aS'Safe\n'
+p7
+aS'To The Arctic\n'
+p8
+aS'Marley\n'
+p9
+aS'Darling Companion\n'
+p10
+aS'Think Like a Man\n'
+p11
+aS'The Cabin in the Woods\n'
+p12
+aS'Lockout\n'
+p13
+aS'American Reunion\n'
+p14
+aS'Mirror Mirror\n'
+p15
+aS'Titanic 3D\n'
+p16
+aS'Wrath of the Titans\n'
+p17
+aS'Bully\n'
+p18
+aS'We Have a Pope\n'
+p19
+aS'The Hunger Games\n'
+p20
+aS'21 Jump Street\n'
+p21
+aS'Salmon Fishing in the Yemen\n'
+p22
+aS'John Carter\n'
+p23
+aS'Act of Valor\n'
+p24
+aS'Footnote\n'
+p25
+aS'Friends With Kids\n'
+p26
+aS'This Means War\n'
+p27
+aS'Safe House\n'
+p28
+aS'Journey 2\n'
+p29
+aS'The Vow\n'
+p30
+aS'The Woman in Black\n'
+p31
+aS'The Artist\n'
+p32
+aS'Project X\n'
+p33
+aS'Casa de Mi Padre\n'
+p34
+aS'October Baby\n'
+p35
+aS'Headhunters\n'
+p36
+aS'The Raven\n'
+p37
+aS'The Lucky One\n'
+p38
+aS'The Three Stooges\n'
+p39
+aS'Battleship\n'
+p40
+aS'Hysteria\n'
+p41
+aS'The Samaritan\n'
+p42
+aS'Men in Black 3\n'
+p43
+aS'Chernobyl Diaries\n'
+p44
+aS'The Shawshank Redemption\n'
+p45
+aS'The Godfather\n'
+p46
+aS'Star Wars\n'
+p47
+aS'Pulp Fiction\n'
+p48
+aS'Jaws\n'
+p49
+aS'Apocalypse Now\n'
+p50
+aS'Blade Runner\n'
+p51
+aS'The Graduate\n'
+p52
+aS'The Wild Bunch\n'
+p53
+aS'The Philadelphia Experiment\n'
+p54
+aS'An American Werewolf in London\n'
+p55
+aS'Clockwork Orange\n'
+p56
+aS'Hitcher\n'
+p57
+aS'Highlander\n'
+p58
+aS'Terminator\n'
+p59
+aS'Fellowship of the Ring\n'
+p60
+aS'The Two Towers\n'
+p61
+aS'The Return of the King\n'
+p62
+aS'Blue Velvet\n'
+p63
+aS'Saving Private Ryan\n'
+p64
+aS'Silence of the Lambs\n'
+p65
+aS'Die Hard\n'
+p66
+aS'Casino Royale\n'
+p67
+aS'Shrek\n'
+p68
+aS'Toy Story\n'
+p69
+aS'The Bourne Identity\n'
+p70
+aS'The Breakfast Club\n'
+p71
+aS'The Sixth Sense\n'
+p72
+aS'Super Troopers\n'
+p73
+aS'Gladiator\n'
+p74
+aS'Rain Man\n'
+p75
+aS'Children of Men\n'
+p76
+aS'Risky Business\n'
+p77
+aS'Scream\n'
+p78
+aS'No Country for Old Men\n'
+p79
+aS'Unforgiven\n'
+p80
+aS'Office Space\n'
+p81
+aS'Michael Clayton\n'
+p82
+aS'Evil Dead\n'
+p83
+aS'Evil Dead 2\n'
+p84
+aS'Sideways\n'
+p85
+aS'Napoleon Dynamite\n'
+p86
+aS'Swingers\n'
+p87
+aS'Back to the Future\n'
+p88
+aS'Full Metal Jacket\n'
+p89
+aS'Reanimator\n'
+p90
+aS'The Truman Show\n'
+p91
+aS'Dazed and Confused\n'
+p92
+aS'Memento\n'
+p93
+aS'Alien\n'
+p94
+aS'Halloween\n'
+p95
+aS'Friday the 13th\n'
+p96
+aS'Hitman\n'
+p97
+aS'Casino Royale\n'
+p98
+aS'Goldmember\n'
+p99
+aS'Ace Ventura\n'
+p100
+aS'Dumb and Dumber\n'
+p101
+aS'Fright Night\n'
+p102
+a.
